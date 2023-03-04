@@ -3,6 +3,9 @@ I have used Whisper ASR , a TTS model and GPT 3.5 turbo to take a voice as input
 
 # Link for the demo
 https://4ac012d50ecfdbdded.gradio.live/
+
+
+
 Whisper ASR is a speech recognition model that can convert speech input to text. TTS (Text-to-Speech) is a technology that can convert text to speech. GPT 3.5 turbo is a language model that can generate human-like text.
 
 By using these models together, it is possible to create an AI voice assistant that can understand spoken input, generate a response in natural language, and then convert that response to speech.
